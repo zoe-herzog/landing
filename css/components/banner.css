@@ -1,0 +1,25 @@
+.banner {
+	background-image: url(../../img/banner.jpeg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 50px;
+	color: black;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight : lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}
+
+.banner-with-flat-filter {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('img/banner.jpeg');
+}
+
+
